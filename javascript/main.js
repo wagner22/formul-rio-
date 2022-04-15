@@ -65,4 +65,8 @@ function pesquisacep(valor) {
         //cep sem valor, limpa formulário.
         limpa_formulário_cep();
     }
-};
+}
+
+function salvo(){
+    alert('salvo') 
+}
